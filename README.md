@@ -1,6 +1,4 @@
-![banner](https://github.com/khangvu0/khangvu0/assets/49794277/2a33924b-b5d2-43b9-9d0d-a0263a432383)
-
-
+![banner](https://github.com/khangvu0/khangvu0/assets/49794277/c02842c8-46d2-4c73-bdf1-61f58fb1429d)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khang Vu
 ================================================================================================================================
