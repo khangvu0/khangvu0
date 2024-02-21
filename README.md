@@ -8,7 +8,7 @@ I am a first-generation college graduate from a Vietnamese family, achieving Cum
 * 🌍  I'm based in Charlotte, North Carolina
 * ✉️  You can contact me at [kvu9@charlotte.edu](mailto:kvu9@charlotte.edu)
 * 🧠  I'm currently learning JavaScript & Python
-* ⚡  Fun Fact: I have an adorable kitty name Umi, I love watching anime,  traveling and eating good foods
+* ⚡  Fun Fact: I have an adorable kitty name Umi, I love watching anime, traveling and eating good foods
 
 ### Connect with Me:
 <p align="left">
