@@ -1,4 +1,4 @@
-![banner](https://github.com/khangvu0/khangvu0/assets/49794277/c02842c8-46d2-4c73-bdf1-61f58fb1429d)
+![banner](https://github.com/user-attachments/assets/183966bb-70c3-4315-a23c-3d295ad33567)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khang Vu
 ================================================================================================================================
@@ -6,8 +6,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a first-generation college graduate from a Vietnamese family, achieving Cum Laude honors at the University of North Carolina at Charlotte with a bachelor's degree in Computer Engineering and a minor in Mathematics. Skilled in C++ programming, communications, human relations, and critical thinking, with an entrepreneurial mentality. Eager to adapt and learn in diverse environments, seeking an entry-level software engineering role to kickstart a career in the field. Enthusiastic about joining a dynamic organization that fosters continuous personal and professional growth while contributing to company success. Actively seeking opportunities in North Carolina. Let's connect!
 
 * 🌍  I'm based in Charlotte, North Carolina
-* ✉️  You can contact me at [kvu9@charlotte.edu](mailto:kvu9@charlotte.edu)
-* 🧠  I'm currently learning JavaScript & Python 
+* ✉️  You can contact me at [khanghvu1@gmail.com](mailto:khanghvu1@gmail.com)
+* 🧠  I'm currently learning JavaScript
 * ⚡  Fun Fact: I have an adorable kitty name Umi, I love watching anime, traveling and eating good foods
 
 ### Connect with Me:
