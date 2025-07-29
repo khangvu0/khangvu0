@@ -1,4 +1,5 @@
-![banner](https://github.com/user-attachments/assets/183966bb-70c3-4315-a23c-3d295ad33567)
+<img width="1280" height="420" alt="kvu9@charlotte edu" src="https://github.com/user-attachments/assets/7bfa80e9-1d57-493c-b333-99a93e67bf12" />
+
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khang Vu
 ================================================================================================================================
