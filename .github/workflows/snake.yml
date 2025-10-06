@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
     schedule:
-        - cron: '0 */12 * * *' # runs every 12 hours
+        - cron: '0 */12 * * *' # every 12 hours
     workflow_dispatch:
 
 jobs:
@@ -12,15 +12,13 @@ jobs:
             - name: Checkout repo
               uses: actions/checkout@v3
 
-            - name: Generate snake.svg
-              uses: Platane/snk@v3
+            - name: Generate Snake
+              uses: Platane/snk/svg-only@v3
               with:
                   github_user_name: khangvu0
-                  outputs: dist/snake.svg
-                  snake_color: '#22c55e' # green snake
-                  apple_color: '#ff4d4d' # red food
-                  background: '#0d1117' # GitHub dark background
-                  grid_color: '#161b22' # dark grey tiles
+                  outputs: |
+                      dist/snake-dark.svg?palette=github-dark
+                      dist/snake-light.svg?palette=github-light
 
             - name: Upload to output branch
               uses: peaceiris/actions-gh-pages@v3
