@@ -4,27 +4,64 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khang Vu
 ================================================================================================================================
 
-I am a first-generation college graduate from a Vietnamese family, achieving Cum Laude honors at the University of North Carolina at Charlotte with a bachelor's degree in Computer Engineering and a minor in Mathematics. Skilled in C++ programming, communications, human relations, and critical thinking, with an entrepreneurial mentality. Eager to adapt and learn in diverse environments, seeking an entry-level software engineering role to kickstart a career in the field. Enthusiastic about joining a dynamic organization that fosters continuous personal and professional growth while contributing to company success. Actively seeking opportunities in North Carolina. Let's connect!
+I am a coding apprentice at Road to Hire where I am building full-stack apps with JavaScript, Node.js, SQL, HTML/CSS. During this apprenticeship, I have made some really cool projects that I am proud of, some independently and some collaboratively as project lead.  Before this, I graduated Cum Laude from the University of North Carolina at Charlotte with a degree in Computer Engineering and a minor in Mathematics. I am skilled in frontend development, communication and leadership. Outside of work, I love playing pickleball and watching anime with my cat Umi. Actively seeking opportunities in North Carolina. Let's connect!
 
-* 🌍  I'm based in Charlotte, North Carolina
-* ✉️  You can contact me at [khanghvu1@gmail.com](mailto:khanghvu1@gmail.com)
-* 🧠  I'm currently learning JavaScript
-* ⚡  Fun Fact: I have an adorable kitty name Umi, I love watching anime, traveling and eating good foods
+<img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWloNzRzYjRqYjJ5ZW55NzF2Y3Y5cnN1N243aWdtODhqMXZsYnp1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I2nZMy0sI0ySA/giphy.gif"  />
+
+###
 
 ### Connect with Me:
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khangvu-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khangvu-/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/khang.vu.7545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/khang.vu.7545" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/khangvu_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/khangvu_/" height="30" width="40" /></a>
-<a href="https://discord.com/users/khangaroo__" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="30" height="40" /></a>
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/khangvu-/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/366691847470448661" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/khangvu_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
+###
 
-### Languages and Tools
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Languages and Tools:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
 
-### Badges
+###
 
-<b>My GitHub Stats</b>
+### GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khangvu0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" height="300" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khangvu0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue&hide_border=false" height="300" alt="languages graph"  />
+</div>
 
-<a href="http://www.github.com/khangvu0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khangvu0&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/khangvu0/khangvu0/output/snake.svg" alt="Snake animation" />
+
+###
